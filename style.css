@@ -182,6 +182,7 @@ body{
 
     .left{
         padding: 1rem 2rem;
+        grid-row: 2;
     }
 
     .left-content ul li{
